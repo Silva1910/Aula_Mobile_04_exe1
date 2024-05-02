@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aula_Mobile_04_exe1</string>
+    <string name="etDia">DIGITE O DIA DE NASCIMENTO</string>
+    <string name="etMes">DIGITE O MES DE NASCIMENTO</string>
+    <string name="etAno">DIGITE O ANO DE NASCIMENTO</string>
+    <string name="finalCalc">finalCalc</string>
+    <string name="calcular">calcular</string>
+
+</resources>
